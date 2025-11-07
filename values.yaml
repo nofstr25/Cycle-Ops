@@ -14,7 +14,7 @@ deployment:
   container: 
     name:  aws-monitoring-container
     image: nofstr25/flask-aws-monitor
-    imageTag: latest
+    imageTag: 7
     port: 5001
 
 ingress:
