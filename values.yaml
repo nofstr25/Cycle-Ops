@@ -13,7 +13,7 @@ deployment:
   replicas: 3
   container: 
     name:  aws-monitoring-container
-    image: nofstr25/flask-aws-monitor
+    image: nofstr25/cycle
     imageTag: 7
     port: 5001
 
