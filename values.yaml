@@ -14,7 +14,7 @@ deployment:
   container: 
     name:  aws-monitoring-container
     image: nofstr25/cycle
-    imageTag: 9
+    imageTag: 10
     port: 5001
 
 ingress:
